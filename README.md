@@ -22,8 +22,6 @@ A structured collection of my verified professional certifications across **Agil
 4. [Design & Simulation](#-design--simulation)
 5. [Automation & Embedded Systems](#-automation--embedded-systems)
 
-> 📎 Each section links to the corresponding PDF stored in this repository.
-
 ---
 
 ### 🟦 Agile & Project Management
@@ -98,13 +96,3 @@ Developed proficiency in **2D drafting**, **3D modeling**, and **finite-element 
 
 **Outcome Summary:**  
 Built practical expertise in **industrial automation**, **embedded hardware programming**, and **automotive control systems**—integrating **PLC logic**, **sensor interfacing**, and **ADAS fundamentals** for intelligent mechatronic applications.
-
----
-
-## 🔎 How to Verify
-- Each PDF includes course titles and issuing platforms.  
-- Additional proof (links, IDs) can be provided on request.
-
-<p align="center">
-  <i>“Every certification is a step closer to building better systems.”</i>
-</p>
