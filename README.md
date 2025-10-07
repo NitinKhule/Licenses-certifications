@@ -43,7 +43,7 @@ Developed end-to-end agile project skills using **PMI** and **Atlassian** framew
 ---
 
 ### 🟪 Product Management & Strategy
-**PDF:** [`02_Product_Management_Strategy.pdf`](./02_Product_Management_Strategy.pdf)
+**PDF:** [`02_Product_Management_Strategy.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/2.Product%20Management%20%26%20Strategy%20Certifications.pdf)
 
 **Core Certifications:**
 - Aha! Product Management Professional Certificate  
@@ -60,7 +60,7 @@ Gained comprehensive skills in end-to-end **product management**—from **strate
 ---
 
 ### 🟨 Data & Process Excellence
-**PDF:** [`03_Data_Process_Excellence.pdf`](./03_Data_Process_Excellence.pdf)
+**PDF:** [`03_Data_Process_Excellence.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/3.Data%2C%20Quality%20%26%20Analytical%20Tools%20Certifications.pdf)
 
 **Core Certifications:**
 - Data Analyst Mastery with BI  
@@ -76,7 +76,7 @@ Built strong **analytical**, **coding**, and **testing** expertise—combining *
 ---
 
 ### 🟦 Design & Simulation
-**PDF:** [`04_Design_Simulation.pdf`](./04_Design_Simulation.pdf)
+**PDF:** [`04_Design_Simulation.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/4.Design%20%26%20Simulation%20Certifications.pdf)
 
 **Core Certifications:**
 - AutoCAD 2D  
@@ -90,7 +90,7 @@ Developed proficiency in **2D drafting**, **3D modeling**, and **finite-element 
 ---
 
 ### 🟩 Automation & Embedded Systems
-**PDF:** [`05_Automation_Embedded_Systems.pdf`](./05_Automation_Embedded_Systems.pdf)
+**PDF:** [`05_Automation_Embedded_Systems.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/5.Automation%20%26%20Embedded%20Systems%20Certifications.pdf)
 
 **Core Certifications:**
 - Siemens S7-1200 PLC & HMI  
