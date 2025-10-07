@@ -16,7 +16,7 @@
 A structured collection of my verified professional certifications across **Agile & Project Management**, **Product Management**, **Data & Process Excellence**, **Design & Simulation**, and **Automation & Embedded Systems**.
 
 ## 🧭 Contents
-1. [Agile & Project Management](#-agile--project-management)
+1. [Agile & Project Management](https://github.com/NitinKhule/Licenses-certifications/blob/main/1.Agile%20%26%20Project%20Management%20Certifications.pdf)
 2. [Product Management & Strategy](#-product-management--strategy)
 3. [Data & Process Excellence](#-data--process-excellence)
 4. [Design & Simulation](#-design--simulation)
