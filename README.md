@@ -46,8 +46,7 @@ Developed end-to-end agile project skills using **PMI** and **Atlassian** framew
 **PDF:** [`02_Product_Management_Strategy.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/2.Product%20Management%20%26%20Strategy%20Certifications.pdf)
 
 **Core Certifications:**
-- Aha! Product Management Professional Certificate  
-- PMP Certification Exam Prep Course  
+- Aha! Product Management Professional Certificate   
 - Product Management First Steps  
 - Technical Product Management  
 - Building a Product Strategy  
