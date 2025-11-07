@@ -1,31 +1,46 @@
 <!-- HEADER -->
-<h1 align="center">🚀 Licenses & Certifications – Nitin Khule</h1>
-<h3 align="center">Agile Delivery • Product Strategy • Data & Process Excellence • CAD/CAE • Automation</h3>
+<h1 align="center">💼 Licenses & Certifications – Nitin Khule</h1>
+<h3 align="center">Data Analytics • Agile Delivery • Product Strategy • Engineering Systems • Automation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agile%20%26%20PM-Scrum%20%7C%20Lean%20%7C%20Jira-blue?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-SQL%20%7C%20Python%20%7C%20Power%20BI-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Agile%20%26%20PM-PMP%20%7C%20Scrum%20%7C%20Jira-blue?style=for-the-badge&logo=jira" />
   <img src="https://img.shields.io/badge/Product%20Management-Strategy%20%7C%20Roadmaps-purple?style=for-the-badge&logo=producthunt" />
-  <img src="https://img.shields.io/badge/Data%20%26%20Quality-Python%20%7C%20SQL%20%7C%20Power%20BI-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/CAD%20%26%20Simulation-SolidWorks%20%7C%20AutoCAD%20%7C%20Ansys-blueviolet?style=for-the-badge&logo=autodesk" />
-  <img src="https://img.shields.io/badge/Automation-PLC%20%7C%20Arduino%20%7C%20ADAS-green?style=for-the-badge&logo=siemens" />
+  <img src="https://img.shields.io/badge/Engineering-SolidWorks%20%7C%20NX%20%7C%20Ansys-blueviolet?style=for-the-badge&logo=autodesk" />
+  <img src="https://img.shields.io/badge/Automation-PLC%20%7C%20Arduino%20%7C%20Embedded%20C-green?style=for-the-badge&logo=siemens" />
 </p>
 
 ---
 
-## 📁 Repository Purpose
-A structured collection of my verified professional certifications across **Agile & Project Management**, **Product Management**, **Data & Process Excellence**, **Design & Simulation**, and **Automation & Embedded Systems**.
+## 🧭 Repository Overview
+A comprehensive showcase of my verified professional certifications, structured across **Data Analytics**, **Agile & Project Management**, **Product Strategy**, and **Engineering & Automation Foundations** — representing a complete techno-functional and business-aligned career path.
 
-## 🧭 Contents
-1. [Agile & Project Management](#-agile--project-management)
-2. [Product Management & Strategy](#-product-management--strategy)
-3. [Data & Process Excellence](#-data--process-excellence)
-4. [Design & Simulation](#-design--simulation)
-5. [Automation & Embedded Systems](#-automation--embedded-systems)
+---
+
+## 📚 Contents
+1. [Data Analytics, Business Intelligence & Cloud Technologies](#-data-analytics-business-intelligence--cloud-technologies)
+2. [Agile & Project Management](#-agile--project-management)
+3. [Product Strategy & Business Management](#-product-strategy--business-management)
+4. [Engineering Systems & Automation Foundations](#-engineering-systems--automation-foundations)
+
+---
+
+### 🟨 Data Analytics, Business Intelligence & Cloud Technologies
+**PDF:** [`01_Data_Analytics_BI_Certifications.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/1.Data_Analytics_BI_Certifications.pdf)
+
+**Core Certifications:**
+- Data Analyst Mastery with Business Intelligence  
+- The Complete Python Bootcamp: Zero to Hero  
+- Mastery MySQL from Beginner to Expert  
+- Data Visualization with Power BI Simplified  
+
+**Outcome Summary:**  
+Built end-to-end proficiency in **data analytics, visualization, and automation** — combining **SQL**, **Python**, **Power BI**, and **Azure Synapse** to deliver **data modeling**, **cloud-based dashboards**, and **AI-assisted insights**. Strengthened capabilities in **A/B testing**, **statistical analysis**, and **EDA** for strategic, data-driven decision-making.
 
 ---
 
 ### 🟦 Agile & Project Management
-**PDF:** [`01_Agile_Project_Management.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/1.Agile%20%26%20Project%20Management%20Certifications.pdf)
+**PDF:** [`02_Agile_Project_Management_Certifications.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/2.Agile_Project_Management_Certifications.pdf)
 
 **Core Certifications:**
 - Atlassian Agile Project Management Professional Certificate  
@@ -34,17 +49,19 @@ A structured collection of my verified professional certifications across **Agil
 - Scrum: The Basics  
 - Agile Project Management with Jira Cloud (1–3)  
 - Mistakes to Avoid in Agile Project Management  
+- **Lean Six Sigma Green Belt**  
+- **ISTQB Certified Tester – Foundation Level**
 
 **Outcome Summary:**  
-Developed end-to-end agile project skills using **PMI** and **Atlassian** frameworks—covering **Scrum**, **Lean processes**, and **Jira-based execution** for efficient planning, tracking, and cross-functional team collaboration.
+Developed strong capabilities in **Agile delivery and project governance** using **PMI** and **Atlassian** frameworks. Skilled in **Scrum**, **Lean methodologies**, and **Jira-based execution** for effective sprint planning, risk management, and continuous improvement in **data, BI, and AI solution delivery**. Strengthened process excellence and quality assurance through **Six Sigma** and **ISTQB** certifications.
 
 ---
 
-### 🟪 Product Management & Strategy
-**PDF:** [`02_Product_Management_Strategy.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/2.Product%20Management%20%26%20Strategy%20Certifications.pdf)
+### 🟪 Product Strategy & Business Management
+**PDF:** [`03_Product_Strategy_Certifications.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/3.Product_Strategy_Certifications.pdf)
 
 **Core Certifications:**
-- Aha! Product Management Professional Certificate   
+- Aha! Product Management Professional Certificate  
 - Product Management First Steps  
 - Technical Product Management  
 - Building a Product Strategy  
@@ -52,47 +69,38 @@ Developed end-to-end agile project skills using **PMI** and **Atlassian** framew
 - Customer Development  
 
 **Outcome Summary:**  
-Gained comprehensive skills in end-to-end **product management**—from **strategy** and **roadmap creation** to **technical alignment** and **customer-centric development** for innovation and market-ready product delivery.
+Gained comprehensive skills in **product lifecycle management**, from **market research** and **strategy design** to **roadmap creation** and **performance tracking**. Proficient in **Balanced Scorecard**, **CRISP-DM**, and **KPI-driven strategy** — leveraging analytics and customer data to deliver high-value, innovation-oriented products.
 
 ---
 
-### 🟨 Data & Process Excellence
-**PDF:** [`03_Data_Process_Excellence.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/3.Data%2C%20Quality%20%26%20Analytical%20Tools%20Certifications.pdf)
+### 🟧 Engineering Systems & Automation Foundations
+**PDF:** [`04_Engineering_Automation_Certifications.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/4.Engineering_Automation_Certifications.pdf)
 
 **Core Certifications:**
-- Data Analyst Mastery with BI  
-- Certified Lean Six Sigma Green Belt  
-- ISTQB Certified Tester – Foundation Level  
-- The Complete Python Bootcamp: Zero to Hero  
-- Mastery MySQL from Beginner to Expert  
-- Data Visualization with Power BI Simplified  
-
-**Outcome Summary:**  
-Built strong **analytical**, **coding**, and **testing** expertise—combining **Python**, **SQL**, and **Power BI** with **Lean Six Sigma** and **ISTQB** methods to ensure **data accuracy**, **process optimization**, and **quality assurance**.
-
----
-
-### 🟦 Design & Simulation
-**PDF:** [`04_Design_Simulation.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/4.Design%20%26%20Simulation%20Certifications.pdf)
-
-**Core Certifications:**
-- AutoCAD 2D  
 - SolidWorks Basic to Industrial Level  
-- Siemens NX  
+- Siemens NX Professional  
+- AutoCAD 2D & 3D  
 - Ansys Workbench  
-
-**Outcome Summary:**  
-Developed proficiency in **2D drafting**, **3D modeling**, and **finite-element simulation**—covering **design creation**, **product visualization**, and **performance analysis** using leading **CAD/CAE** tools for mechanical and mechatronic applications.
-
----
-
-### 🟩 Automation & Embedded Systems
-**PDF:** [`05_Automation_Embedded_Systems.pdf`](https://github.com/NitinKhule/Licenses-certifications/blob/main/5.Automation%20%26%20Embedded%20Systems%20Certifications.pdf)
-
-**Core Certifications:**
 - Siemens S7-1200 PLC & HMI  
 - Advanced Embedded Systems with Arduino  
-- ADAS (Advanced Driver Assistance Systems)  
+- ADAS (Advanced Driver Assistance Systems)
 
 **Outcome Summary:**  
-Built practical expertise in **industrial automation**, **embedded hardware programming**, and **automotive control systems**—integrating **PLC logic**, **sensor interfacing**, and **ADAS fundamentals** for intelligent mechatronic applications.
+Established strong foundations in **mechanical design, simulation, and automation systems**. Experienced in **3D modeling, structural and thermal analysis**, and **control logic design** using **PLC, Arduino, and Embedded C**. Built a cross-disciplinary understanding that bridges **engineering**, **data systems**, and **process optimization** for intelligent product and automation solutions.
+
+---
+
+## 🏁 Summary
+🎯 This repository represents a holistic skill architecture combining:
+- **Data Mastery (Analytics, BI, AI, Cloud)**
+- **Execution Leadership (Agile, PMP, Process Optimization)**
+- **Strategic Thinking (Product, Business, KPI Frameworks)**
+- **Technical Depth (Engineering, Simulation, Automation)**
+
+💡 Designed to reflect the evolving **Techno-Functional Professional** — someone who connects **data intelligence**, **product strategy**, and **engineering innovation** into measurable business impact.
+
+---
+
+<p align="center">
+  <b>© 2025 | Nitin Khule | Techno-Management • Data Analytics • Product Strategy</b>  
+</p>
